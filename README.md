@@ -1,2 +1,2 @@
 # find-out-the-number-
-## guess the number game using __*HTML+CSS+JS*__
+## guess the number game using *HTML+CSS+JS*
