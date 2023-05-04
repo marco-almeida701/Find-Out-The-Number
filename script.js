@@ -3,7 +3,7 @@ let attemps = 0
 
 function refresh(){
     //gera um número aleatório
-    
+    attemps = 0
     numberToFind = parseInt(Math.random() *100)
 
     console.log(numberToFind)
@@ -33,6 +33,7 @@ function verifyNumber(){
     
     else {
         alert(`Parabéns você Acertou!! Com ${attemps} erros` )
+        refresh()
     }
 }
 
