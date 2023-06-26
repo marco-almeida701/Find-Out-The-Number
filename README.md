@@ -1,3 +1,14 @@
-# find-out-the-number
-## guess the number game using *HTML+CSS+JS*
-the command will choose a random number from 1 to 100, and the user will have to hit which number was chosen, once the user hits it, it will show the number of attempts the user made until hitting the number.
+# Guess the Number Game
+This is a **"Guess the Number"** game where the computer generates a random number between 1 and 100, and the user has to guess the correct number. The game provides feedback to the user, indicating whether the guessed number is higher or lower than the target number. Once the user guesses the correct number, the game displays the number of attempts made.
+## Features
+* **Random Number Generation:** The game generates a random number between 1 and 100 for the user to guess.
+* **Input Validation:** The game validates the user's input to ensure it is within the valid range.
+* **Feedback:** The game provides feedback to the user, indicating whether the guessed number is higher or lower than the target number.
+* **Number of Attempts:** The game keeps track of the number of attempts made by the user and displays it when they guess the correct number.
+## How to Play
+1. Open the game in a web browser.
+2. Enter a number between 1 and 100 in the input field.
+3. Click the "Submit" button to submit your guess.
+4. The game will provide feedback indicating whether your guess is higher or lower than the target number.
+5. Continue guessing until you find the correct number.
+6. Once you guess the correct number, the game will display the number of attempts you made.
