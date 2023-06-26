@@ -12,3 +12,7 @@ This is a **"Guess the Number"** game where the computer generates a random numb
 4. The game will provide feedback indicating whether your guess is higher or lower than the target number.
 5. Continue guessing until you find the correct number.
 6. Once you guess the correct number, the game will display the number of attempts you made.
+## Final Thoughts
+This project was a fun way to practice JavaScript and create an interactive game. Feel free to explore the source code and customize it according to your preferences. Enjoy playing the "Guess the Number" game and see how quickly you can find the correct number!
+
+### **Note: This game is for entertainment purposes only and does not include advanced features such as different difficulty levels or score tracking.**
